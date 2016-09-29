@@ -1,0 +1,1 @@
+$(function(){'use strict';if(top!==self&&document.referrer){$.post(window.location.pathname+'/-actions/referrer',{iframe_referrer:document.referrer});}});
